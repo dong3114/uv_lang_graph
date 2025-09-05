@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# api key 세팅 파일
+.env
+
+# 기타 파일 
+/data
+/chroma-*
+/tax_project
+/real_estate_tax_collection
+
+__init__.py
+
+
