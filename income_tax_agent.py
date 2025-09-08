@@ -230,7 +230,7 @@ builder.add_conditional_edges(
     "retrieve", check_doc_relevence,
     {
         "relevant": "generate",
-        "irrelevant": END
+        "irrelevant": "rewrite"
     }
     )
 builder.add_conditional_edges(
